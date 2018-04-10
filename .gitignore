@@ -1,0 +1,17 @@
+# complied class files
+*.class
+# log file
+*.log
+#BlueJ
+*.ctxt
+#Mobiles tools 
+*.mtj.tmp/
+#package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+#vm crash logs
+hs err_pid*
